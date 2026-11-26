@@ -1,16 +1,10 @@
 <div align="center">
 
-<p>
-  <span style="font-size: 70px; font-weight: 1600;">🍄 SUPER MARIO</span>
-</p>
+<h1>🍄 SUPER MARIO</h1>
 
-<p>
-  <strong>COAL Semester Project · 8086 Assembly · DOSBox</strong>
-</p>
+<h3>COAL Semester Project · 8086 Assembly · DOSBox</h3>
 
-<p>
-  <strong>A classic platform-game experience, built from the ground up in 16-bit NASM assembly.</strong>
-</p>
+<p><strong>A classic platform-game experience, built from the ground up in 16-bit NASM assembly.</strong></p>
 
 </div>
 <p align="center">
