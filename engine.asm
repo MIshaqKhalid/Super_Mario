@@ -8,3 +8,5 @@
 %include "graphics.asm"
 %include "world.asm"
 %include "physics.asm"
+%include "entities.asm"
+%include "rules.asm"
