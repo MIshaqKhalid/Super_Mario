@@ -1,9 +1,17 @@
 <div align="center">
-  <h1>🍄 SUPER MARIO</h1>
-  <h2>COAL Semester Project · 8086 Assembly · DOSBox</h2>
 
-**A classic platform-game experience, built from the ground up in 16-bit
-NASM assembly.**
+<p>
+  <span style="font-size: 36px; font-weight: 800;">🍄 SUPER MARIO</span>
+</p>
+
+<p>
+  <strong>COAL Semester Project · 8086 Assembly · DOSBox</strong>
+</p>
+
+<p>
+  <strong>A classic platform-game experience, built from the ground up in 16-bit NASM assembly.</strong>
+</p>
+
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Intel%208086-2563EB?style=for-the-badge" alt="Intel 8086">
