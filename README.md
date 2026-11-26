@@ -363,6 +363,6 @@ endorsed by, or associated with Nintendo**.
 
 **Built with 8086 Assembly · Powered by curiosity · Played in DOSBox**
 
-`<sub>`{=html}COAL Semester Project · BCS-3B`</sub>`{=html}
+<sub>COAL Semester Project · BCS-3B</sub>
 
 
