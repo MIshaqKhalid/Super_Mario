@@ -4,7 +4,16 @@ org 100h
 jmp Start
 %include "engine.asm"
 
-
+Start:
+    cli
+    mov ax, cs
+    mov ss, ax
+    mov sp, StackTop
+    mov ds, ax
+    mov es, ax
+    sti
+    cld
+    call InitializeGame
 .frame:
     call WaitFrame
     call ReadKeys
