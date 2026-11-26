@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <span style="font-size: 36px; font-weight: 800;">🍄 SUPER MARIO</span>
+  <span style="font-size: 70px; font-weight: 1600;">🍄 SUPER MARIO</span>
 </p>
 
 <p>
