@@ -1,4 +1,4 @@
-::: {align="center"}
+<div align="center">
 # 🍄 SUPER MARIO
 
 ### COAL Semester Project · 8086 Assembly · DOSBox
@@ -359,10 +359,12 @@ endorsed by, or associated with Nintendo**.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### 🍄 Thanks for checking out our project!
 
 **Built with 8086 Assembly · Powered by curiosity · Played in DOSBox**
 
 `<sub>`{=html}COAL Semester Project · BCS-3B`</sub>`{=html}
-:::
+
+
+
+</div>
