@@ -10,3 +10,7 @@
 %include "physics.asm"
 %include "entities.asm"
 %include "rules.asm"
+%include "states.asm"
+%include "screens.asm"
+
+; no linker is used and included once.
