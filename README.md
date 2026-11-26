@@ -2,7 +2,7 @@
 # 🍄 SUPER MARIO
 
 ### COAL Semester Project · 8086 Assembly · DOSBox
-
+</div>
 **A classic platform-game experience, built from the ground up in 16-bit
 NASM assembly.**
 
@@ -366,5 +366,3 @@ endorsed by, or associated with Nintendo**.
 `<sub>`{=html}COAL Semester Project · BCS-3B`</sub>`{=html}
 
 
-
-</div>
