@@ -123,7 +123,7 @@ The game embeds its artwork, font, level, music, and sound-effect tables
 in assembly. No external image or audio assets, linker, or additional
 libraries are required.
 
-> **Already have `main.com`?** You can run it directly in DOSBox. NASM
+> **Already have `mario.com`?** You can run it directly in DOSBox. NASM
 > is only required when rebuilding from source.
 
 ## 🚀 Build & Run
@@ -144,13 +144,13 @@ Make sure DOS NASM is available in the mounted folder or through the DOS
 `PATH`.
 
 ``` dos
-nasm main.asm -o main.com
+nasm main.asm -o mario.com
 ```
 
 ### 3. Run it
 
 ``` dos
-main.com
+mario.com
 ```
 
 ### Run the included executable
@@ -159,7 +159,7 @@ If you only want to play the included compiled version, mount the folder
 and run:
 
 ``` dos
-main.com
+mario.com
 ```
 
 **Important:** Keep all source modules in the same directory when
