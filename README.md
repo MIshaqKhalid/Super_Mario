@@ -2,10 +2,10 @@
 # 🍄 SUPER MARIO
 
 ### COAL Semester Project · 8086 Assembly · DOSBox
-</div>
+
 **A classic platform-game experience, built from the ground up in 16-bit
 NASM assembly.**
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Intel%208086-2563EB?style=for-the-badge" alt="Intel 8086">
   <img src="https://img.shields.io/badge/Language-NASM%20Assembly-7C3AED?style=for-the-badge" alt="NASM Assembly">
