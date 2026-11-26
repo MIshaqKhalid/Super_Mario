@@ -29,3 +29,59 @@ ST_CREDITS      equ 9
 FLAG_TOP_Y      equ 32
 FLAG_BASE_Y     equ 134            ; cloth stays above the flag pedestal
 WIN_FEET_Y      equ 144
+
+KEY_ESC         equ 01h
+KEY_ENTER       equ 1Ch
+KEY_SPACE       equ 39h
+KEY_SHIFT       equ 2Ah
+KEY_LEFT        equ 4Bh
+KEY_RIGHT       equ 4Dh
+KEY_UP          equ 48h
+KEY_DOWN        equ 50h
+KEY_P           equ 19h
+KEY_M           equ 32h
+KEY_B           equ 30h
+KEY_F1          equ 3Bh
+KEY_F2          equ 3Ch
+KEY_F3          equ 3Dh
+KEY_F4          equ 3Eh
+KEY_F5          equ 3Fh
+
+T_SKY           equ 0
+T_GROUND        equ 1
+T_BRICK         equ 2
+T_QUESTION_COIN equ 3
+T_QUESTION_GROW equ 4
+T_EMPTY         equ 5
+T_PIPE_TL       equ 6
+T_PIPE_TR       equ 7
+T_PIPE_BL       equ 8
+T_PIPE_BR       equ 9
+T_STAIR         equ 10
+T_COIN          equ 11
+T_FLAG          equ 12
+
+; Each position has a signed whole-pixel word followed by a fraction word
+; (0..255). This extends 8.8 positions past 255 pixels without 386 opcodes.
+A_X             equ 0
+A_XF            equ 2
+A_Y             equ 4
+A_YF            equ 6
+A_VX            equ 8
+A_VY            equ 10
+A_TYPE          equ 12
+A_STATE         equ 14
+A_TIMER         equ 16
+A_GRACE         equ 18
+A_ACTIVE        equ 20
+ACTOR_SIZE      equ 22
+ENEMY_COUNT     equ 6
+ITEM_COUNT      equ 4
+E_GOOMBA        equ 1
+E_KOOPA         equ 2
+E_MUSHROOM      equ 3
+ES_WALK         equ 0
+ES_FLAT         equ 1
+ES_SHELL        equ 2
+ES_SLIDE        equ 3
+ES_REMOVED      equ 4
