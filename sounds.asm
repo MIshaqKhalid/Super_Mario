@@ -246,3 +246,33 @@ music_world:
     dw NOTE_D5,4, 0,8
     dw NOTE_C5,5, 0,11
     dw 0,16
+; C1: 64 reference-grid units.
+    dw NOTE_C5,3, 0,1
+    dw NOTE_C5,4, 0,4
+    dw NOTE_C5,4, 0,4
+    dw NOTE_C5,3, 0,1
+    dw NOTE_D5,4, 0,4
+    dw NOTE_E5,3, 0,1
+    dw NOTE_C5,4, 0,4
+    dw NOTE_A4,3, 0,1
+    dw NOTE_G4,4, 0,12
+    ; C2: 64 reference-grid units.
+    dw NOTE_C5,3, 0,1
+    dw NOTE_C5,4, 0,4
+    dw NOTE_C5,4, 0,4
+    dw NOTE_C5,3, 0,1
+    dw NOTE_D5,4, 0,4
+    dw NOTE_E5,7, 0,9
+    dw 0,16
+    ; C1 reprise: 64 reference-grid units.
+    dw NOTE_C5,3, 0,1
+    dw NOTE_C5,4, 0,4
+    dw NOTE_C5,4, 0,4
+    dw NOTE_C5,3, 0,1
+    dw NOTE_D5,4, 0,4
+    dw NOTE_E5,3, 0,1
+    dw NOTE_C5,4, 0,4
+    dw NOTE_A4,3, 0,1
+    dw NOTE_G4,4, 0,12
+music_world_end:
+    dw 0,0
