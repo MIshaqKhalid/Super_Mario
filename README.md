@@ -362,7 +362,6 @@ endorsed by, or associated with Nintendo**.
 ### 🍄 Thanks for checking out our project!
 
 **Built with 8086 Assembly · Powered by curiosity · Played in DOSBox**
-
+<div align="center">
 <sub>COAL Semester Project · BCS-3B</sub>
-
-
+</div>
