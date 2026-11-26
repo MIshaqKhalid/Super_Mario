@@ -3,3 +3,5 @@
 %include "art.asm"
 %include "font.asm"
 %include "sounds.asm"
+%include "platform.asm"
+%include "audio.asm"
