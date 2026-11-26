@@ -1,5 +1,5 @@
 <div align="center">
-# 🍄 SUPER MARIO
+### 🍄 SUPER MARIO
 
 ### COAL Semester Project · 8086 Assembly · DOSBox
 
