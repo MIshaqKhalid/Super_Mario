@@ -5,3 +5,6 @@
 %include "sounds.asm"
 %include "platform.asm"
 %include "audio.asm"
+%include "graphics.asm"
+%include "world.asm"
+%include "physics.asm"
