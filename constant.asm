@@ -85,3 +85,74 @@ ES_FLAT         equ 1
 ES_SHELL        equ 2
 ES_SLIDE        equ 3
 ES_REMOVED      equ 4
+
+; Original signed 8.8 velocities. Keep the same per-step acceleration, jump
+; path and collision distances; only the game tick frequency changes.
+ACCEL           equ 0057h
+BRAKE           equ 00AEh
+FRICTION        equ 002Ch
+WALK_SPEED      equ 0278h
+RUN_SPEED       equ 041Eh
+GRAVITY         equ 00AEh
+JUMP_SPEED      equ -090Dh
+JUMP_CUT        equ -034Ch
+FALL_SPEED      equ 0698h
+BOUNCE_SPEED    equ -04F1h
+HIGH_BOUNCE     equ -0698h
+GOOMBA_SPEED    equ 00D3h
+KOOPA_SPEED     equ 013Ch
+SHELL_SPEED     equ 04F1h
+MUSHROOM_SPEED  equ 01A6h
+
+; Original 32-colour palette, stored as VGA DAC values in assets/art.asm.
+C_BLACK         equ 0
+C_SKY           equ 1
+C_WHITE         equ 2
+C_RED           equ 3
+C_SKIN          equ 4
+C_BLUE          equ 5
+C_BROWN         equ 6
+C_GOLD          equ 7
+C_GREEN         equ 8
+C_LIME          equ 9
+C_DARK          equ 10
+C_STONE         equ 11
+C_ORANGE        equ 12
+C_CREAM         equ 13
+C_CLOUD         equ 14
+C_INK           equ 15
+C_PIPE_LIGHT    equ 16
+C_PIPE_SHADOW   equ 17
+C_GRASS_LIGHT   equ 18
+C_GRASS_DARK    equ 19
+C_EARTH_LIGHT   equ 20
+C_EARTH_SHADOW  equ 21
+C_BRICK_LIGHT   equ 22
+C_BRICK_SHADOW  equ 23
+C_SKY_MID       equ 24
+C_SKY_LOW       equ 25
+C_HILL          equ 26
+C_HILL_SHADOW   equ 27
+C_PANEL         equ 28
+C_PANEL_EDGE    equ 29
+C_GOLD_LIGHT    equ 30
+C_RED_DARK      equ 31
+PALETTE_COLOURS equ 32
+
+; Event IDs index sound_bank; priorities are declared with each sound there.
+SFX_MENU        equ 0
+SFX_START       equ 1
+SFX_JUMP        equ 2
+SFX_COIN        equ 3
+SFX_BUMP        equ 4
+SFX_BREAK       equ 5
+SFX_SPROUT      equ 6
+SFX_POWER       equ 7
+SFX_STOMP       equ 8
+SFX_KICK        equ 9
+SFX_HURT        equ 10
+SFX_DEATH       equ 11
+SFX_WIN         equ 12
+SFX_LIFE        equ 13
+SFX_OVER        equ 14
+SFX_COUNT       equ 15
