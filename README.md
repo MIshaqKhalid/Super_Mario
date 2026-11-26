@@ -6,14 +6,18 @@
 **A classic platform-game experience, built from the ground up in 16-bit
 NASM assembly.**
 
-`<img src="https://img.shields.io/badge/Architecture-Intel%208086-2563EB?style=for-the-badge&logo=intel&logoColor=white" alt="Intel 8086">`{=html}
-`<img src="https://img.shields.io/badge/Language-NASM%20Assembly-7C3AED?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="NASM Assembly">`{=html}
-`<img src="https://img.shields.io/badge/Platform-DOS%20Real%20Mode-16A34A?style=for-the-badge&logo=windows95&logoColor=white" alt="DOS real mode">`{=html}
-`<img src="https://img.shields.io/badge/Runtime-DOSBox-F59E0B?style=for-the-badge&logo=dosbox&logoColor=white" alt="DOSBox">`{=html}
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Intel%208086-2563EB?style=for-the-badge" alt="Intel 8086">
+  <img src="https://img.shields.io/badge/Language-NASM%20Assembly-7C3AED?style=for-the-badge" alt="NASM Assembly">
+  <img src="https://img.shields.io/badge/Platform-DOS%20Real%20Mode-16A34A?style=for-the-badge" alt="DOS Real Mode">
+  <img src="https://img.shields.io/badge/Runtime-DOSBox-F59E0B?style=for-the-badge" alt="DOSBox">
+</p>
 
-`<img src="https://img.shields.io/badge/Graphics-VGA%20Mode%2013h-E11D48?style=flat-square" alt="VGA Mode 13h">`{=html}
-`<img src="https://img.shields.io/badge/Executable-.COM-0F766E?style=flat-square" alt="COM executable">`{=html}
-`<img src="https://img.shields.io/badge/Assembler-DOS%20NASM%200.98.38-334155?style=flat-square" alt="DOS NASM 0.98.38">`{=html}
+<p align="center">
+  <img src="https://img.shields.io/badge/Graphics-VGA%20Mode%2013h-E11D48?style=flat-square" alt="VGA Mode 13h">
+  <img src="https://img.shields.io/badge/Executable-.COM-0F766E?style=flat-square" alt="COM executable">
+  <img src="https://img.shields.io/badge/Assembler-DOS%20NASM%200.98.38-334155?style=flat-square" alt="DOS NASM 0.98.38">
+</p>
 
 ------------------------------------------------------------------------
 
