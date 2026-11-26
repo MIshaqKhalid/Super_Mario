@@ -1,6 +1,5 @@
 <div align="center">
-### 🍄 SUPER MARIO
-
+  <h1>🍄 SUPER MARIO</h1>
 ### COAL Semester Project · 8086 Assembly · DOSBox
 
 **A classic platform-game experience, built from the ground up in 16-bit
